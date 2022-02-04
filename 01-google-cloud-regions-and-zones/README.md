@@ -2,6 +2,8 @@
 
 ## Regions
 
+Regions are distributed across different continents.
+
 Advantages:
 
 - High availability
